@@ -5,6 +5,8 @@ Creación de un nuevo repositorio para el Examen Parcial 1
 - C.I 1550014029
 - 21 años de edad
 - Estudiante de la Universidad Regional Amazónica Ikiam
+- Carrera Biotecnología
+- Cursando sexto semestre
 # Características del computador
 - Nombre del dispositivo: LAPTO-8SBQFO6O
 - Procesador: AMD Athlon Silver 3050U with Radeon Graphics 2.30 GHZ
