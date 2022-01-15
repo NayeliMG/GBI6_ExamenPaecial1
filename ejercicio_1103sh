@@ -1,7 +1,13 @@
-Ejercicio 1.10.3 Redes de Plantas-Polinizador
-- Estos son se pueden representar como matrices rectangulares donde las filas son polinizadores, las columnas plantas, inidcan la ausencia y la presencia de una interacción entre la planta 
+#Ejercicio 1.10.3 Redes de Plantas-Polinizador
+  - Estos son se pueden representar como matrices rectangulares donde las filas son polinizadores, las columnas plantas, inidcan la ausencia y la presencia de una interacción entre la planta 
 y el polinizador .
 1. Escriba un scrip que tome uno de estos archivos y determine el número.
 2. Escriba un scrip que imprima los números de filas y columnas.
+# Comandos
+- Para la realización del ejercicio 1.10.3 usamos n5.txt
+  - Para contar el número de columnas usamos el comando "head" de la siguiente manera:
+    head -n 1 ../Saavedra2013/n5.txt | tr -s " " | tr -s "\ n" | wc -c
+  - Para contar el número de filas hacemos uso del comando "cat" de la siguiente manera:
+    cat ../Saavedra2013/n5.txt | wc -l
 
 
