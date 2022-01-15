@@ -1,1 +1,7 @@
+Ejercicio 1.10.3 Redes de Plantas-Polinizador
+- Estos son se pueden representar como matrices rectangulares donde las filas son polinizadores, las columnas plantas, inidcan la ausencia y la presencia de una interacción entre la planta 
+y el polinizador .
+1. Escriba un scrip que tome uno de estos archivos y determine el número.
+2. Escriba un scrip que imprima los números de filas y columnas.
+
 
